@@ -31,6 +31,9 @@ ATTR_OVEN_LOWER_TARGET_TEMP = "oven_lower_target_temp"
 ATTR_OVEN_UPPER_TARGET_TEMP = "oven_upper_target_temp"
 ATTR_OVEN_TEMP_UNIT = "oven_temp_unit"
 
+# cooktop sensor attributes
+ATTR_COOKTOP_STATE = "cooktop_state"
+
 # configuration
 CONF_LANGUAGE = "language"
 CONF_OAUTH2_URL = "oauth2_url"
